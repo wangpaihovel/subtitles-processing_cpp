@@ -1,1 +1,9 @@
-# subtitles-processing_cpp
+# 关于字幕文件 .srt 的处理
+
+// 此代码乃作者因兴趣爱好自己编写的，如果能得到读者的赏识转载还望注明
+
+// 如果需要联系作者，作者的邮箱：contactwangpai@163.com
+
+---
+
+
